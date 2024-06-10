@@ -1,5 +1,3 @@
-// I've used a 2D vector to solve this
-
 
 
 class Solution{
